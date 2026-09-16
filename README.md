@@ -1,4 +1,4 @@
-# Bank Customer Churn
+# Kundbortfall hos en bank
 
 Analys av varför bankkunder lämnar och vilka åtgärder som är mest rimliga.
 
